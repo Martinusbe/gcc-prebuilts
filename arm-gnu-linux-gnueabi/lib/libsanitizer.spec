@@ -1,0 +1,1 @@
+../../arm-gnu-linux-gnueabi/sysroot/lib/libsanitizer.spec
